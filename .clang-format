@@ -1,0 +1,8 @@
+BasedOnStyle: Google
+IndentWidth: 4
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: Empty
+AlignAfterOpenBracket: BlockIndent
+Cpp11BracedListStyle: true
+SpaceBeforeCpp11BracedList: true
+NamespaceIndentation: All
